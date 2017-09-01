@@ -1,5 +1,5 @@
 <?php
-namespace Geega\Skeleton;
+namespace Geega\Session;
 
 class ExampleTest extends \PHPUnit_Framework_TestCase
 {

@@ -1,5 +1,6 @@
 <?php
-namespace Geega\Skeleton;
+namespace Geega\Session;
+
 
 class Example {
   public function echo ($msg) {
