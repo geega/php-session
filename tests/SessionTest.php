@@ -1,7 +1,7 @@
 <?php
 namespace Geega\Session;
 
-class ExampleTest extends \PHPUnit_Framework_TestCase
+class SessionTest extends \PHPUnit_Framework_TestCase
 {
     /**
      * Test that true does in fact equal true

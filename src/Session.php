@@ -2,7 +2,7 @@
 namespace Geega\Session;
 
 
-class Example {
+class Session {
   public function echo ($msg) {
     echo $msg.PHP_EOL;
   }
