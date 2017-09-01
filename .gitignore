@@ -55,3 +55,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+### JetBrains: Developer Tools  ###
+# Ignores the whole idea folder
+.idea/
