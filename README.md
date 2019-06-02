@@ -33,6 +33,31 @@ $ composer require geega/php-session
 ## Usage
 
 ``` php
-$skeleton = new League\Skeleton();
-echo $skeleton->echoPhrase('Hello, League!');
+Session::start();
+
+// Check exists?
+
+Session::has($key);
+
+// Get value by key
+
+Session::get($key);
+
+// Set value by key
+
+Session::set($key, $value);
+
+
+
+
+
+
+
 ```
+
+
+## TODO
+
+- Implements ArrayAccess, Countable, IteratorAggregate interfaces
+- Session object model
+- Write tests
