@@ -58,6 +58,7 @@ Session::set($key, $value);
 
 ## TODO
 
+- remove
 - Implements ArrayAccess, Countable, IteratorAggregate interfaces
 - Session object model
 - Write tests
